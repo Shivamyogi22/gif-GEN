@@ -4,9 +4,7 @@ import Spinner from "./Spinner";
 import useGif from "../hooks/useGif";
 
 const Tag = () => {
-    // REACT_APP_GIPHY_API_KEY='eWRiRsCaaOTYmV6Q648dMtvOpklxkt0i'
-    // const API_KEY = process.env.REACT_APP_GIPHY_API_KEY;
-    // const API_KEY = process.env.REACT_APP_GIPHY_API_KEY_TENOR;
+  
 
     const [tag, setTage] = useState("tom");
     // const [gif, setGif] = useState("");
